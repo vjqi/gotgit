@@ -82,7 +82,7 @@ title: 关于本书
 
   * 代码示例下载
 
-      <https://github.com/gotgit/gotgit/tree/gh-pages/download>
+      [本地下载](download)
 
   * 演示版本库1
 
